@@ -1,0 +1,1 @@
+console.log("Juego GT7 Web Demo listo");
